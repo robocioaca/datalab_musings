@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexandru Bocioacă
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analyst
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+# organizations:
+# - name: Stanford University
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Analyst, fluent in Python and SQL.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- High volume data ingestion and processing
+- Python programming
+- Machine learning
 
 #education:
 #  courses:
@@ -38,15 +38,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/robocioaca
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/robocioaca
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,6 +60,4 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, I’m Alexandru, a Data Analyst passionate about gleaning insights from data. After a solid stint in the operation and maintenance of legacy ORACLE DB systems, I'm currently in pursuit of a thorough retooling towards Python flavored statistical data analysis. I make good use of the programming and data science online courses published by edX and Udacity and I contribute to the best of my ability on GitHub - an effort that proved very illuminating.
