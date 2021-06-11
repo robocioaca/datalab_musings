@@ -1,9 +1,9 @@
 {
-  "name": "My Blog",
-  "short_name": "My Blog",
+  "name": "Alexandru Bocioacă",
+  "short_name": "Alexandru Bocioacă",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/datalab_musings/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
