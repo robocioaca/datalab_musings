@@ -8,11 +8,11 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: Welcome to my blog!
+#subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
 
 design:
   background:
-    color: '#090a0b'
+    color: '#3f51b5'
     text_color_light: true
 ---

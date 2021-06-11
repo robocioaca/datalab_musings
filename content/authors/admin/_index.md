@@ -60,4 +60,4 @@ social:
 #email: ""
 ---
 
-Hi, I’m Alexandru, a Data Analyst passionate about gleaning insights from data. After a solid stint in the operation and maintenance of legacy ORACLE DB systems, I'm currently in pursuit of a thorough retooling towards Python flavored statistical data analysis. I make good use of the programming and data science online courses published by edX and Udacity and I contribute to the best of my ability on GitHub - an effort that proved very illuminating.
+Hi, I’m Alexandru, a Data Analyst passionate about gleaning insights from data. After a solid stint in the operation and maintenance of legacy relational OLTP DB systems, I'm currently in pursuit of a thorough retooling towards Python flavored statistical data analysis. I make good use of the programming and data science online courses published by edX and Udacity and I contribute to the best of my ability on GitHub - an effort that proved very illuminating.
